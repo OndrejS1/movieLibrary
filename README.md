@@ -5,7 +5,7 @@ School assigment #1 - MovieLibrary
 
 Capabilities:
   - Adding / Removing / Getting - Movies, Users, Ratings
-  - loading initial datas from .dat file
+  - loading initial datas from .dat file (MovieLens.org)
   - serializing / desirializing
   - sorting by title & year
   
