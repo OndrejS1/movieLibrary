@@ -10,6 +10,10 @@ Capabilities:
   - sorting by title & year
   
   
+  Bugs:
+  
+  movieTopTen();
+  Serialization
   
   
   
